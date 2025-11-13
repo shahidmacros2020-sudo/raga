@@ -1,0 +1,139 @@
+{
+  "ragas": [
+    {
+      "name": "Mayamalavagowla",
+      "type": "Melakartha",
+      "melakarta": 1,
+      "arohanam": "Sa Ri Ga Ma Pa Da Ni Sa",
+      "avarohanam": "Sa Ni Da Pa Ma Ga Ri Sa",
+      "audio_arohanam": "mayamalavagowla_arohanam.wav",
+      "audio_avarohanam": "mayamalavagowla_avarohanam.wav"
+    },
+    {
+      "name": "Shankarabharanam",
+      "type": "Melakartha",
+      "melakarta": 2,
+      "arohanam": "Sa Ri Ga Ma Pa Da Ni Sa",
+      "avarohanam": "Sa Ni Da Pa Ma Ga Ri Sa",
+      "audio_arohanam": "shankarabharanam_arohanam.wav",
+      "audio_avarohanam": "shankarabharanam_avarohanam.wav"
+    },
+    {
+      "name": "Kalyani",
+      "type": "Melakartha",
+      "melakarta": 3,
+      "arohanam": "Sa Ri Ga Ma Pa Da Ni Sa",
+      "avarohanam": "Sa Ni Da Pa Ma Ga Ri Sa",
+      "audio_arohanam": "kalyani_arohanam.wav",
+      "audio_avarohanam": "kalyani_avarohanam.wav"
+    },
+    {
+      "name": "Kharaharapriya",
+      "type": "Melakartha",
+      "melakarta": 4,
+      "arohanam": "Sa Ri Ga Ma Pa Da Ni Sa",
+      "avarohanam": "Sa Ni Da Pa Ma Ga Ri Sa",
+      "audio_arohanam": "kharaharapriya_arohanam.wav",
+      "audio_avarohanam": "kharaharapriya_avarohanam.wav"
+    },
+    {
+      "name": "Harikambhoji",
+      "type": "Melakartha",
+      "melakarta": 5,
+      "arohanam": "Sa Ri Ga Ma Pa Da Ni Sa",
+      "avarohanam": "Sa Ni Da Pa Ma Ga Ri Sa",
+      "audio_arohanam": "harikambhoji_arohanam.wav",
+      "audio_avarohanam": "harikambhoji_avarohanam.wav"
+    },
+    {
+      "name": "Hanumatodi",
+      "type": "Melakartha",
+      "melakarta": 6,
+      "arohanam": "Sa Ri Ga Ma Pa Da Ni Sa",
+      "avarohanam": "Sa Ni Da Pa Ma Ga Ri Sa",
+      "audio_arohanam": "hanumatodi_arohanam.wav",
+      "audio_avarohanam": "hanumatodi_avarohanam.wav"
+    },
+    {
+      "name": "Natabhairavi",
+      "type": "Melakartha",
+      "melakarta": 7,
+      "arohanam": "Sa Ri Ga Ma Pa Da Ni Sa",
+      "avarohanam": "Sa Ni Da Pa Ma Ga Ri Sa",
+      "audio_arohanam": "natabhairavi_arohanam.wav",
+      "audio_avarohanam": "natabhairavi_avarohanam.wav"
+    },
+    {
+      "name": "Bilahari",
+      "type": "Melakartha",
+      "melakarta": 8,
+      "arohanam": "Sa Ri Ga Ma Pa Da Ni Sa",
+      "avarohanam": "Sa Ni Da Pa Ma Ga Ri Sa",
+      "audio_arohanam": "bilahari_arohanam.wav",
+      "audio_avarohanam": "bilahari_avarohanam.wav"
+    },
+    {
+      "name": "Mohanam",
+      "type": "Janya",
+      "melakarta": 9,
+      "arohanam": "Sa Ri Ga Ma Pa Da Ni Sa",
+      "avarohanam": "Sa Ni Da Pa Ma Ga Ri Sa",
+      "audio_arohanam": "mohanam_arohanam.wav",
+      "audio_avarohanam": "mohanam_avarohanam.wav"
+    },
+    {
+      "name": "Hamsadhwani",
+      "type": "Janya",
+      "melakarta": 10,
+      "arohanam": "Sa Ri Ga Ma Pa Da Ni Sa",
+      "avarohanam": "Sa Ni Da Pa Ma Ga Ri Sa",
+      "audio_arohanam": "hamsadhwani_arohanam.wav",
+      "audio_avarohanam": "hamsadhwani_avarohanam.wav"
+    },
+    {
+      "name": "Kambhoji",
+      "type": "Janya",
+      "melakarta": 11,
+      "arohanam": "Sa Ri Ga Ma Pa Da Ni Sa",
+      "avarohanam": "Sa Ni Da Pa Ma Ga Ri Sa",
+      "audio_arohanam": "kambhoji_arohanam.wav",
+      "audio_avarohanam": "kambhoji_avarohanam.wav"
+    },
+    {
+      "name": "Kapi",
+      "type": "Janya",
+      "melakarta": 12,
+      "arohanam": "Sa Ri Ga Ma Pa Da Ni Sa",
+      "avarohanam": "Sa Ni Da Pa Ma Ga Ri Sa",
+      "audio_arohanam": "kapi_arohanam.wav",
+      "audio_avarohanam": "kapi_avarohanam.wav"
+    },
+    {
+      "name": "Yaman",
+      "type": "Janya",
+      "melakarta": 13,
+      "arohanam": "Sa Ri Ga Ma Pa Da Ni Sa",
+      "avarohanam": "Sa Ni Da Pa Ma Ga Ri Sa",
+      "audio_arohanam": "yaman_arohanam.wav",
+      "audio_avarohanam": "yaman_avarohanam.wav"
+    },
+    {
+      "name": "SudhaSaveri",
+      "type": "Janya",
+      "melakarta": 14,
+      "arohanam": "Sa Ri Ga Ma Pa Da Ni Sa",
+      "avarohanam": "Sa Ni Da Pa Ma Ga Ri Sa",
+      "audio_arohanam": "sudhasaveri_arohanam.wav",
+      "audio_avarohanam": "sudhasaveri_avarohanam.wav"
+    },
+    {
+      "name": "Abheri",
+      "type": "Janya",
+      "melakarta": 15,
+      "arohanam": "Sa Ri Ga Ma Pa Da Ni Sa",
+      "avarohanam": "Sa Ni Da Pa Ma Ga Ri Sa",
+      "audio_arohanam": "abheri_arohanam.wav",
+      "audio_avarohanam": "abheri_avarohanam.wav"
+    }
+  ]
+}
